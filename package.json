@@ -1,0 +1,19 @@
+{
+  "name": "target-lock",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T0RAT0RA/target-lock-element.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/T0RAT0RA/target-lock-element/issues"
+  },
+  "homepage": "https://github.com/T0RAT0RA/target-lock-element#readme"
+}
