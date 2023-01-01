@@ -9,7 +9,7 @@
     "@fullcalendar/resource-timeline": "^4.4.2",
     "@fullcalendar/vue": "^4.4.2",
     "node-sass": "^4.14.1",
-    "sass-loader": "^8.0.2",
+    "sass-loader": "^13.2.0",
     "tippy.js": "^6.2.3"
   },
   "devDependencies": {},
